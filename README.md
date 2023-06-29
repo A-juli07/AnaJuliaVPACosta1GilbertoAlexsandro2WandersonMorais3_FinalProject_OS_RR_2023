@@ -10,3 +10,5 @@ Projetar e implementar um próprio File System – Sistema de Arquivos no termin
 - GNU Make 4.3;
 - GCC 11.3;
 - Ubuntu 22.04 LTS "Jammy Jellyfish";
+# Autores
+Ana Julia V. P. Andrade, Gilberto A. A. Pessoa, Wanderson M. de Sousa
